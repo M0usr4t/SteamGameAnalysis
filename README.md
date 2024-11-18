@@ -1,4 +1,3 @@
-# SteamGameAnalysis
 # Steam Game Data Analysis Project
 
 ---
@@ -58,7 +57,7 @@ Key steps in cleaning and normalizing the data included:
 - **Seasonal Trends**: Popularity over time.
 - **Pricing Analysis**: Initial vs. current pricing.
 
-![Genre Dashboard](images/genre_dashbaord.png)
+![Genre Dashboard](images/genre_dashboard.png)
 
 ### Games:
 - **Metacritic vs. User Ratings**.
@@ -79,8 +78,6 @@ Key steps in cleaning and normalizing the data included:
 ## Results
 - **Interactive Dashboards**: Delivered actionable insights for stakeholders.
 - **Scalable Pipeline**: Designed a reusable pipeline for analyzing gaming data.
-
-![Power BI Dashboard](images/dashboard.png)
 
 ---
 
